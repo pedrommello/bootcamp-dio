@@ -1,8 +1,12 @@
 # bootcamp-dio
+
 Repositório de testes para Bootcamp na DIO
 
-### Sumário
+## Sumário
+
 - Introdução ao GIT e GITHub
 - Primeiro Projeto
 - Dev Avançado com JS ES6
 - React Intro
+- React Componentes
+- Aplicações Web com Reac e Redux
